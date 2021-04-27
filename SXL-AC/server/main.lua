@@ -4,7 +4,7 @@ local BanList = {}
 local BlacklistedPropList = {}
 local WhitelistedPropList = {}
 local BlacklistedExplosionsList = {}
-local canbanforentityspawn = false
+local canbanforentityspawn = false,
 
 ESX = nil
 
